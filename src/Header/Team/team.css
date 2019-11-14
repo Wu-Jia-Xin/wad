@@ -1,0 +1,33 @@
+.main{
+    width: 1800px;
+    height: 700px;
+    position: absolute;
+    margin-left: -1000px;
+    background-color:white;
+}
+.back{
+   
+    margin-left: -1000px;
+    cursor:pointer;
+    font-size: 15px;
+    font-family: '宋体';
+    color: rgb(41, 39, 39);
+}
+.h2{
+    width: 120px;
+    height: 120px;
+    margin-left: 380px;
+    margin-top: 20px;
+    color: rgb(199, 85, 199);
+    font-size: 30px;
+    border-top: 2px solid rgb(233, 171, 55);
+}
+.one{
+  width: 650px;
+  height: 120px;
+  text-align: left;
+  margin-left: 600px;
+  margin-top: -130px;
+  font-family: '宋体';
+  color: black;
+}

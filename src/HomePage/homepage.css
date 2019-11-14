@@ -1,0 +1,21 @@
+/* .main{
+width: 100%;
+height: 350px;
+border: 1px solid rebeccapurple;
+}
+.one{
+    width: 100%;
+    height: 700px;
+    overflow: hidden;
+    background-size:cover;
+    background-size:100% 100%; 
+    background-attachment:fixed;
+} */
+.photo{
+    position: absolute;
+    width: 100%;
+    height: 300px;
+    margin-top: 150px;
+    z-index:-1;
+    background-color: aqua;
+}

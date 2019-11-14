@@ -1,0 +1,162 @@
+/* .login{
+    width: 400px;
+    height: 400px;
+    background:linear-gradient(to bottom ,rgb(51, 114, 207),white);
+    display: flex;
+    justify-content: space-between;
+}
+
+.denglubox{
+    position: absolute;
+    height: 60px;
+    width: 400px;
+    border-bottom: 1px solid gray;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    margin-bottom: 15px;
+    
+}
+
+.denglu{
+    color: white;
+    font-size: 30px;
+    float: left;
+    display: flex;
+    justify-content:space-around;
+}
+.denglu1{
+    color: white;
+    font-size: 20px;
+    float: right;
+}
+.i{
+    margin-top: 100px;
+    margin-left:80px;
+}
+.n{
+    margin-top: 50px;
+}
+.b{
+    margin-top: 50px;
+    margin-left: 80px;
+}
+.e{
+    margin-top: 10px;
+   float: right;
+    color: white;
+} */
+
+
+.back{
+    width: 500px;
+    margin-top:-20px;
+    cursor:pointer;
+}
+.loginbox{
+    width:500px;;
+    height: 520px;
+    line-height:70px;
+    background:linear-gradient(to bottom, pink, white);
+    /* margin: 0 auto; */
+    position: absolute;
+    margin-top: 100px;
+    margin-left: -500px;
+    opacity:0.95;
+    z-index: 1;
+    
+}
+.headimg{
+    margin-top: 52px;
+    margin-bottom: 35px;
+    position: relative;
+    left: 50%;
+    margin-left: -30px;
+}
+.ul{
+  list-style: none;
+    margin: 0 ;
+    padding: 0 ;
+    display: block;
+    padding-left: 50px ;
+    padding-right:  50px;
+    }
+.liAll{
+    margin: 0 auto;
+    padding: 0;
+    }
+.userTel{
+    margin: 0 auto; 
+    padding: 0;
+    display: block ;
+    height: 41px ;
+    width: 286px ;
+    border-bottom: 1px solid #989898 ;
+    line-height: 52px ;
+    padding-top: 11px；
+    }
+.telInput{
+    margin: 0 ;
+    padding: 0 ;
+    display: inline-block ;
+    height: 20px ;
+   margin-bottom: 12px ;
+   margin-left: 12px ;
+   outline: none ;
+    border: 0;
+    }
+.telPrompt{
+    color: red ;
+    font-size: 15px;
+    }
+.unSelected{
+    display: "inline-block" ;
+    width: 20px;
+    margin-top: 14px;
+   margin-right: 4px;
+    }
+.rememberLi{
+    display:block;
+    height: 38px ;
+   line-height: 38px ;
+    clear:both;
+    margin:0 auto;
+    }
+.rememberI{
+   font-style: normal;
+   font-size: 11px;
+    color:rgb(89, 216, 78);
+   margin-left: 4px;
+    }
+.forgetI{
+    float: right ;
+    font-style: normal ;
+   font-size: 11px;
+    color: rgb(89, 216, 78);
+  margin-bottom: 23px;
+    }
+.login{
+    border: none ;
+    width: 100% ;
+    height: 50px;
+    background-color: rgb(233, 64, 64);
+    color:white;
+    font-size: 16px;
+    text-align: center;
+    margin: 0 auto;
+    }
+.register{
+    display: block ;
+    font-size: 13px;
+    color:#8b8b8b;
+    width: 80px;
+    height:25px;
+    margin:0 auto;
+    border: 1px solid #8b8b8b ;
+    text-decoration: "none" ;
+    margin-top: 200px ;
+    text-align: center ;
+    line-height: 25px;
+    }
+        
+    
+
